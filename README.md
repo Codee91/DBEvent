@@ -19,7 +19,7 @@ This table contains details about the events. Information such as event ID, lang
 
 event_languages.sql
 -------------------
-This table stores information about the languages levels of each users in events. This might include language ID, language, and level.
+This table stores information about the languages levels of each users in events. This includes language ID, language, and level.
 
 event_registered.sql
 --------------------
