@@ -7,7 +7,7 @@ Files and tables
 
 event_user.sql
 --------------
-This table contains information about users. This includes details such as user ID, name, lastname, email.
+This table contains information about users. This includes details such as user ID, name, lastname, email. (Users don't require any password due to the fact that they don't have to log in)  
 
 event_admin.sql
 ---------------
